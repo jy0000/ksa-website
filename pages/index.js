@@ -33,8 +33,9 @@ export default class Index extends React.Component {
           </Splash>
             <div className="contents">
               <div className="big-letters typography">
-                <p>The Korean Students' Association exists as a non-political club to provide opportunities for Korean undergraduates at MIT to explore their common ethnic and cultural backgrounds and to promote the understanding of the Korean people and culture.</p>
-                <p>To this aim, it holds many social, cultural, athletic, and community service events throughout the year, open to the entire MIT community.</p>
+                <p>The Korean Cultural Association, formerly known Korean Students Association, welcome people of all race, gender, sexual orienation, ethnicity, and cultural backgrounds.</p>
+                <p>The Korean Students' Association exists as a non-political club to provide opportunities for Korean undergraduates at MIT to explore their Korean culture and promote the understanding of the Korean people and culture.</p>
+                <p>To this aim, it holds many social, cultural, and community service events throughout the year, open to the entire MIT community.</p>
                 <p>We’re here to help connect everyone interested in the Korean-American culture, good food, and great friends.</p>
               </div>
             </div>
