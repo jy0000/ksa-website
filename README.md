@@ -52,7 +52,7 @@ npm run lint
 
 ## Deployment
 
-The site is deployed on MIT Scripts, under the locker called `ksa`.
+The site is deployed on [MIT Scripts](https://scripts.mit.edu/), under the locker called `ksa`.
 
 Since it is a club-owned locker, your MIT Kerberos account should be on
 the `ksa-exec@mit.edu` mailing list in order to upload files there.
