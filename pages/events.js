@@ -11,7 +11,6 @@ import {
 import { prefixLink } from '../utils/urls.js'
 import CoverImg from '../static/icecream.jpg';
 import CultureShowImg from '../static/culture-show.jpg';
-import SoccerTournamentImg from '../static/soccer-tournament-2.jpg';
 import GBMImg from '../static/icecream-gbm-2.jpg';
 import CPWImg from '../static/cpw.jpg';
 
@@ -36,12 +35,6 @@ export default function (props) {
             <p>Culture Show is the biggest event KSA organizes annually. We invite Korean students clubs from all schools in Boston to come and help us to introduce the wider MIT community to the Korean culture.</p>
             <p>The every year features a unique theme, includes catered Korean dishes, games, performances by clubs like MIT Takewondo, Asian Dance Team, music bands from Berklee College of Music, MIT, Boston University, as well as other individual perfomers.</p>
             <p>Look out for emails about this years Culture Show this fall!</p>
-          </Row>
-          <Row flipped id="soccer-tourn" imageUrl={SoccerTournamentImg}>
-            <h2>Annual Soccer Tournament</h2>
-            <p>Every year MIT KSA organizes an intercollegiate soccer tournaments between Korean culture clubs of schools in Boston area.</p>
-            <p>The tournament includes cash prizes, but its primary role is to be a fundraiser event.</p>
-            <p>If you represent a Korean culture club at your school and you would like to learn more about participating, <Link to={prefixLink("/contact/")}>contact the exec team</Link>.</p>
           </Row>
           <Row id="cpw" imageUrl={CPWImg}>
             <h2>CPW Events</h2>
